@@ -1,3 +1,10 @@
+/*
+Name : Sohyeon Yim
+Email : brightcattle@gmail.com 
+Blog : https://sohyunwriter.tistory.com/
+Problem : https://www.acmicpc.net/problem/11050
+*/
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
