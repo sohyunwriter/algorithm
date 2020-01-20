@@ -1,0 +1,46 @@
+/*
+Name : Sohyeon Yim
+Email : brightcattle@gmail.com 
+Blog : https://sohyunwriter.tistory.com/
+Problem : https://www.acmicpc.net/problem/1339
+*/
+
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <math.h>
+using namespace std;
+
+int main() {
+	int n;
+	scanf("%d", &n);
+	string word;
+	int a[26] = { 0, };
+
+	// array
+	for (int i = 0; i < n; i++) {
+		cin >> word;
+		for (int j = 0; j < word.length(); j++) {
+			a[word.at(j) - 'A'] += (int) pow(10, word.length() - j - 1);
+		}
+	}
+
+	// 정렬
+	sort(a, a + 26);
+
+	int num = 9;
+	int ans = 0;
+
+	//3)
+	for (int i = 25; i >= 0; i--) {
+		if (a[i]) {
+			//cout << a[i] << '\n';
+			ans += a[i] * num--;
+		}
+			
+	}
+	cout << ans;
+
+	return 0;
+
+}
