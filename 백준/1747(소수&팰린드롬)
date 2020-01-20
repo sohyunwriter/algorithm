@@ -1,0 +1,54 @@
+/*
+Name : Sohyeon Yim
+Email : brightcattle@gmail.com 
+Blog : https://sohyunwriter.tistory.com/
+Problem : https://www.acmicpc.net/problem/1747
+*/
+
+import java.util.*;
+
+public class Main {
+	
+	public static boolean isPrime(int num){
+		if(num == 1)
+			return false;
+		for(int i = 2; i <= Math.sqrt(num); i++){
+			if(num % i == 0)
+				return false;
+		}
+		
+		return true;
+	}
+
+	public static boolean isPalindrom(int num){
+		int temp = 0;
+		int org = num;
+		while(org > 0){
+			temp *= 10;
+			temp += org % 10;
+			org /= 10;
+		}
+		
+		if(temp - num == 0)
+			return true;
+		else
+			return false;
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		
+		for(int i = n; i <= Integer.MAX_VALUE; i++){
+			if(isPrime(i) && isPalindrom(i)){
+				System.out.println(i);
+				break;
+			}
+				
+		}//for
+		
+		
+	}
+
+}
