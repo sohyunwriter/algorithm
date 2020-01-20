@@ -1,3 +1,10 @@
+/*
+Name : Sohyeon Yim
+Email : brightcattle@gmail.com 
+Blog : https://sohyunwriter.tistory.com/
+Problem : https://www.acmicpc.net/problem/11758
+*/
+
 #include <cstdio>
 #include <iostream>
 
