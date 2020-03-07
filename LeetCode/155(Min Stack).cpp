@@ -4,6 +4,7 @@ using namespace std;
 class MinStack {
 public:
     /** initialize your data structure here. */
+    // 두 개의 스택을 이용해 구현
     stack<int> s;
     stack<int> minS;
     
