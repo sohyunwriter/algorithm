@@ -18,7 +18,7 @@ void forPick(int n) {
 //n개의 원소 중 m개를 고르는 모든 조합을 찾는 알고리즘
 void recursivePick(int n, vector<int>& picked, int toPick) { 
 	// n : 원소들의 총 개수, picked : 지금까지 고른 원소들의 번호, toPick: 더 고를 원소들의 개수
-  // 일 때, 앞으로 toPick개의 원소를 고르는 모든 방법을 출력
+ 	// 일 때, 앞으로 toPick개의 원소를 고르는 모든 방법을 출력
   
 	if (toPick == 0) { //base case : 더 고를 원소가 없을 때 고른 원소들을 출력
 		for (int i = 0; i < picked.size(); i++) {
@@ -31,7 +31,7 @@ void recursivePick(int n, vector<int>& picked, int toPick) {
 
 	//고를 수 있는 가장 작은 번호 계산
 	int smallest = picked.empty() ? 0 : picked.back() + 1;
-  //이 단계에서 원소를 하나 고름
+  	//이 단계에서 원소를 하나 고름
 	for (int next = smallest; next < n; next++) {
 		picked.push_back(next);
 		recursivePick(n, picked, toPick-1);
