@@ -1,3 +1,5 @@
+//내 코드 설명 - https://sohyunwriter.tistory.com/78
+
 #include <iostream>
 #include <vector>
 using namespace std;
