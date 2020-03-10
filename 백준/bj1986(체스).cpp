@@ -1,3 +1,6 @@
+//문제 - https://www.acmicpc.net/problem/1986
+//내 코드 설명 - https://sohyunwriter.tistory.com/69
+
 #include <iostream>
 #include <stdio.h>
 #include <stack>
