@@ -1,3 +1,4 @@
+//내 코드 설명 - https://sohyunwriter.tistory.com/77
 #include <iostream>
 using namespace std;
 
@@ -12,6 +13,7 @@ int sum(int n) { //for
 	return ret;
 }
 
+//1부터 n까지 합을 계산하는 재귀 함수
 int recursiveSum(int n) { //recursion
 	if (n == 1)
 		return 1;
