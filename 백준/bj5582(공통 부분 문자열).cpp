@@ -1,3 +1,5 @@
+//문제 - https://www.acmicpc.net/problem/5582
+//내 코드 설명 - https://sohyunwriter.tistory.com/73
 #include <iostream>
 #include <string>
 using namespace std;
