@@ -34,7 +34,7 @@ void recursivePick(int n, vector<int>& picked, int toPick) {
   	//이 단계에서 원소를 하나 고름
 	for (int next = smallest; next < n; next++) {
 		picked.push_back(next);
-		recursivePick(n, picked, toPick-1);
+		recursivePick(n, picked, toPick-1); //재귀
 		picked.pop_back();
 	}
 }
