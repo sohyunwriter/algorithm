@@ -17,7 +17,7 @@ bool compare(pair<int, int> a, pair<int, int> b){
 vector<int> solution(vector<string> genres, vector<int> plays) {
     vector<int> answer;
     unordered_map<string, int> summap; // key : 장르, value : 장르 재생횟수
-    unordered_map<string, vector<pair<int, int> > > genmap; // key : 장르, value : (고유번호, 곡 재생횟수)
+    unordered_map<string, vector<pair<int, int> > > genmap; // key : 장르, value : (고유번호, 곡 재생횟수)를 담는 벡터
     
     for(int i = 0; i < genres.size(); i++){
         summap[genres[i]] += plays[i];
