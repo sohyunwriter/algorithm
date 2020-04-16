@@ -4,8 +4,6 @@
 using namespace std;
 
 int myupperbound(vector<int> v, int target) { //upperbound
-	sort(v.begin(), v.end());
-
 	int start = 0;
 	int end = v.size();
 	int mid;
