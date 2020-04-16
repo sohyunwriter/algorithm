@@ -4,8 +4,6 @@
 using namespace std;
 
 int mylowerbound(vector<int> v, int target) { //lowerbound
-	sort(v.begin(), v.end());
-	
 	int start = 0;
 	int end = v.size();
 	int mid;
