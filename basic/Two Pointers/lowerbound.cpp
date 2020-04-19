@@ -1,4 +1,4 @@
-//https://sohyunwriter.tistory.com/146
+//lower bound & upper bound 설명 - https://sohyunwriter.tistory.com/146
 
 #include <iostream>
 #include <vector>
