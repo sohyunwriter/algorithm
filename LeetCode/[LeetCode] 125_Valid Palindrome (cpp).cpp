@@ -10,7 +10,7 @@ public:
         
         int end = size-1;
         int start = 0;
-        while(end > start){
+        while(end > start){ //이분탐색으로 구현
             while(end >= 0 && !(isalpha(s[end]) || isdigit(s[end])))
                 end--;
             while(start < size && !(isalpha(s[start]) || isdigit(s[start])))
