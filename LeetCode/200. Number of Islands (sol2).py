@@ -4,11 +4,12 @@
 class Solution:
     def numIslands(self, grid):
         def dfs(i, j): # dfs를 스택 이용해 구현
+            
             # x, y 좌표 상하좌우 이동
             dx = [-1, 1, 0, 0]
             dy = [0, 0, -1, 1]
             
-            stack = [(i, j)] # 초기값
+            stack = [(i, j)]
             while stack:
                 x, y = stack.pop()
                 
