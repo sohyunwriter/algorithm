@@ -1,6 +1,7 @@
 #import sys
 #f = open("output.txt", "r")
 #lines = f.read().splitlines()
+#f.close()
 
 #sys.stdin = open("input.txt", "r")
 
