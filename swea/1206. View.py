@@ -1,8 +1,7 @@
-#import sys
+import sys
 #f = open("output.txt", "r")
 #lines = f.read().splitlines()
 #f.close()
-
 #sys.stdin = open("input.txt", "r")
 
 T = 10
@@ -19,7 +18,9 @@ for test_case in range(1, T + 1):
 
     print("#" + str(test_case) + " " + str(answer))
 
-    #if lines[test_case-1] == "#" + str(test_case) + " " + str(answer):
-    #    print("true")
-    #else:
-    #    print("false")
+    '''
+    if lines[test_case-1] == "#" + str(test_case) + " " + str(answer):
+        print("true")
+    else:
+        print("false")
+    '''
