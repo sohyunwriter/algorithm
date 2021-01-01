@@ -20,7 +20,7 @@ MissingInteger [문제](https://app.codility.com/programmers/lessons/4-counting_
 CountDiv [문제](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/) / [풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/CountDiv.py)    
 GenomicRangeQuery [문제](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) / [풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/GenomicRangeQuery.py)    
 
-- Lesson 10. Prime and composite numbers 
+- Lesson 10. Prime and composite numbers      
 CountFactors [문제](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/) / [풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/CountFactors.py)    
 MinPerimeterRectangle [문제](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/) / [풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/MinPerimeterRectangle.py)    
 
