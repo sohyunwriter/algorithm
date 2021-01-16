@@ -1,4 +1,6 @@
 INF = int(1e9)  # 무한을 의미하는 값으로 10억을 설정
+import sys
+input = sys.stdin.readline
 
 # 방문하지 않은 노드 중에서, 가장 최단 거리가 짧은 노드의 번호를 반환
 def get_smallest_node(distance, visited):
