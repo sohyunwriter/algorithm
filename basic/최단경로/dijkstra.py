@@ -8,6 +8,13 @@ import sys
 input = sys.stdin.readline
 INF = int(1e9)  # 무한을 의미하는 값으로 10억을 설정
 
+# edges -> graph 만들기: O(E)
+def edges2graph(edges, n):
+    graph = [[] for i in range(n+1)]  # sc: O(V)
+    for start, dest, cost in edges:  # tc: O(E)
+        graph[start].append((dest, cost))
+    return graph
+
 # 방문하지 않은 노드 중에서, 가장 최단 거리가 짧은 노드의 번호를 반환 : O(V)
 def get_smallest_node(distance, visited):
     min_value = INF
@@ -46,13 +53,6 @@ def dijkstra(graph, pos, n):
 
     return distance
 
-# edges -> graph 만들기
-def edges2graph(edges, n):
-    graph = [[] for i in range(n+1)]  # sc: O(V)
-    for start, dest, cost in edges:
-        graph[start].append((dest, cost))
-    return graph
-
 def solve(n, m, pos, edges):
     # edges -> graph
     graph = edges2graph(edges, n)
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     pos = int(input())
     # 간선 정보 입력받기
     edges = [list(map(int, input().split())) for _ in range(m)]  # sc: O(E)
-    
+
     distance = solve(n, m, pos, edges)
 
     # 모든 노드로 가기 위한 최단 거리 출력
