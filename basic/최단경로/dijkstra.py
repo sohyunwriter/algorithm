@@ -46,14 +46,11 @@ def dijkstra(graph, pos, n):
 
     return distance
 
-# graph 만들기
+# edges -> graph 만들기
 def edges2graph(edges, n):
     graph = [[] for i in range(n+1)]  # sc: O(V)
-
-    # edges -> graph 만들기
     for start, dest, cost in edges:
         graph[start].append((dest, cost))
-
     return graph
 
 def solve(n, m, pos, edges):
@@ -67,12 +64,11 @@ def solve(n, m, pos, edges):
 if __name__ == "__main__":
     # 노드의 개수, 간선의 개수를 입력받기
     n, m = map(int, input().split())
-
     # 시작 노드 번호를 입력받기
     pos = int(input())
-
+    # 간선 정보 입력받기
     edges = [list(map(int, input().split())) for _ in range(m)]  # sc: O(E)
-
+    
     distance = solve(n, m, pos, edges)
 
     # 모든 노드로 가기 위한 최단 거리 출력
