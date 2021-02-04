@@ -1,4 +1,4 @@
-# recursion with dynamic programming
+# recursion with memoization
 # time complexity : O(N)
 
 def solve(n: int) -> int:
