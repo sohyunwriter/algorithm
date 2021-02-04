@@ -1,3 +1,6 @@
+# recursion with dynamic programming
+# time complexity : O(N)
+
 def solve(n: int) -> int:
     dp = [0, 1] + [-1] * (n+1)  # 0, 1 값 저장(종료조건) 및 -1로 초기화(not visited)
 
