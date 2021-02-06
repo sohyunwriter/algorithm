@@ -30,7 +30,7 @@
 BinaryGap [문제](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/) / [풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/BinaryGap.py)    
 
 - Lesson 4. Counting Elements    
-MissingInteger [문제](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) / [풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/MissingInteger.py)    
+[MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) / [풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/MissingInteger.py)    
 
 - Lesson 5. Prefix Sums    
 CountDiv [문제](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/) / [풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/CountDiv.py)    
