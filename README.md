@@ -10,7 +10,7 @@
 - [해커랭크](https://www.hackerrank.com/dashboard)      
 
 
-### 👀 프로그래머스   
+## 👀 프로그래머스   
 #### 깊이/너비 우선 탐색(DFS/BFS)     
 - [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)       
 - [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)      
@@ -26,7 +26,7 @@
 - [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)      
 - 
 
-### 👀 LeetCode
+## 👀 LeetCode
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)    📍[풀이1](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum.py) [풀이2](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol2).py) [풀이3](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol3).py) [풀이4](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol4).py)     
 
 - [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)   📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)     
@@ -50,7 +50,7 @@
 - [77.]
 - [78.]
 
-### 👀 codility    
+## 👀 codility    
 - Lession 1. Iterations   
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)  📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/BinaryGap.py)    
 
