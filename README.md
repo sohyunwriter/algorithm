@@ -17,9 +17,9 @@
 - [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)  💡[풀이]     
 
 #### 힙    
-- [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)  💡[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%9E%99/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py)     
+- [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)  📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%9E%99/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py)     
 - [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) 💡[풀이]      
-- [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) 💡[풀이]    
+- [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) 📍[풀이]    
 
 ### 카카오 기출    
 - [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)      
