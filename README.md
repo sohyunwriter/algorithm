@@ -58,7 +58,7 @@
 [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)  📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/MissingInteger.py)    
 
 - Lesson 5. Prefix Sums    
-[CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)  📍(https://github.com/sohyunwriter/algorithm/blob/master/codility/CountDiv.py)    
+[CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)  📍[](https://github.com/sohyunwriter/algorithm/blob/master/codility/CountDiv.py)    
 [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/codility/GenomicRangeQuery.py)    
 
 - Lesson 10. Prime and composite numbers      
