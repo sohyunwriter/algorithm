@@ -68,7 +68,6 @@ def bfs(board, order, r, c, n, mydict):
             q.append((temp[0][0], temp[0][1], k + 1, cost + ncost2))
         board[temp[0][0]][temp[0][1]] = 0
         board[temp[1][0]][temp[1][1]] = 0
-        #print(q)
 
     mincost = int(1e9)
     while q:
@@ -94,11 +93,9 @@ def solution(board, r, c):
 
     # permutations
     orders = list(permutations(mydict.keys()))
-    #print(dist(board, 0, 0, 0, 1))
+
     # visit
     for order in orders:
-        #print(backtrack(board, order, r, c, n, mydict, -1, 0))
-        #answer = min(answer, backtrack(board, order, r, c, n, mydict, -1, 0))
         answer = min(answer, bfs(board, order, r, c, n, mydict))
 
     answer += (2*n)
