@@ -50,6 +50,9 @@
 - [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)      
 
 #### 그래프     
+- [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)  📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EA%B7%B8%EB%9E%98%ED%94%84/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.py)     
+- [순위](https://programmers.co.kr/learn/courses/30/lessons/49191)      
+- [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190)      
 
 #### 카카오 기출    
 - 2018 [비밀지도] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2018%20KAKAO%20BLIND%20RECRUITMENT%5B1%EC%B0%A8%5D/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py)            
