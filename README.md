@@ -52,8 +52,7 @@
 #### 그래프     
 
 #### 카카오 기출    
-- 2018 [비밀지도] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2018%20KAKAO%20BLIND%20RECRUITMENT%5B1%EC%B0%A8%5D/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py)     
-0%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0.cpp)     
+- 2018 [비밀지도] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2018%20KAKAO%20BLIND%20RECRUITMENT%5B1%EC%B0%A8%5D/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py)            
 - 2019 [크레인 인형뽑기 게임] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%2)        
 - 2019 [징검다리 건너기] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%2)       
 - 2020 [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)      
