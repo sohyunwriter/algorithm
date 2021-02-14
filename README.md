@@ -64,25 +64,25 @@
 
 ## 👀 LeetCode     
 |문제|난이도|풀이|기타|      
-|:---:|:---:|:---:|:---|           
+|:---|:---:|:---|:---|           
 | [1. Two Sum](https://leetcode.com/problems/two-sum/)|   | 📍[풀이1](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum.py) [풀이2](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol2).py) [풀이3](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol3).py) [풀이4](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol4).py)     ||
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) ||  📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py) ||    
-| [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |🟢| || 
-| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |🟢| ||      
-| [15. 3Sum](https://leetcode.com/problems/3sum/) |🟠| ||   
-| [155. Min Stack](https://leetcode.com/problems/min-stack/) |🟢|  📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/155.%20Min%20Stack.py)  ||    
-| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |🟠 |||   
-| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) |🟠|||
-| [207. Course Schedule](https://leetcode.com/problems/course-schedule/)  |🟠|||  
-| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |🟠|||   
+| [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |🟢|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1046.%20Last%20Stone%20Weight.py)  || 
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |🟢|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/125.%20Valid%20Palindrome.cpp) ||      
+| [15. 3Sum](https://leetcode.com/problems/3sum/) |🟠|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/15.%203Sum.py) ||   
+| [155. Min Stack](https://leetcode.com/problems/min-stack/) |🟢|  📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/155.%20Min%20Stack.py) [풀이cpp](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/155.%20Min%20Stack.cpp) ||    
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |🟠 |📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)   ||   
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) |🟠|📍[풀이1](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/200.%20Number%20of%20Islands.py) [풀이2](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/200.%20Number%20of%20Islands%20(sol2).py)||
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/)  |🟠|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/207.%20Course%20Schedule.py)||  
+| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |🟠|📍[풀이1](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array.py) [풀이2](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array%20(sol2).py)  [풀이3](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array%20(sol3).py)   ||   
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |🔴|   📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/239.%20Sliding%20Window%20Maximum.py) ||    
-| [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |🟠| ||
-| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |🟠| ||      
-| [344. Reverse String](https://leetcode.com/problems/reverse-string/) |🟢 |||        
-| [39. Combination Sum](https://leetcode.com/problems/combination-sum/) |🟠|||     
-| [46. Permutations](https://leetcode.com/problems/permutations/) |🟠|||          
-| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |🟠|||       
-| [77. Combinations](https://leetcode.com/problems/combinations/) |🟠|||     
+| [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |🟠|📍[풀이1](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/332.%20Reconstruct%20Itinerary.py) [풀이2](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/332.%20Reconstruct%20Itinerary%20(sol2).py) ||
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |🟠|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp) ||      
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/) |🟢 |📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/344.%20Reverse%20String.py)||        
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/) |🟠|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/39.%20Combination%20Sum.py)||     
+| [46. Permutations](https://leetcode.com/problems/permutations/) |🟠|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/46.%20Permutation.py)||          
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |🟠|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/56.%20Merge%20Intervals.py)||       
+| [77. Combinations](https://leetcode.com/problems/combinations/) |🟠|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/77.%20Combinations.py)||     
 | [78. Subsets](https://leetcode.com/problems/subsets/) |🟠|  📍[풀이1](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/78.%20Subsets.py) [풀이2](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/78.%20Subsets%20(sol2).py)     ||
 
 ## 👀 codility    
