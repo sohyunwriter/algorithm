@@ -15,9 +15,7 @@ def bfs(graph, start, visited):
         pos = q.popleft()
         if visited[pos]:
             continue
-        
         visited[pos] = True
-        
         for nextnode in graph[pos]:
             q.append(nextnode)
     
