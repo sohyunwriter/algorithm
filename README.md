@@ -65,8 +65,8 @@
 ## 👀 LeetCode     
 |문제|난이도|풀이|기타|      
 |:---|:---:|:---|:---|           
-| [1. Two Sum](https://leetcode.com/problems/two-sum/)|   | 📍[풀이1](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum.py) [풀이2](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol2).py) [풀이3](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol3).py) [풀이4](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol4).py)     ||
-| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) ||  📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py) ||    
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)|🟢| 📍[풀이1](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum.py) [풀이2](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol2).py) [풀이3](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol3).py) [풀이4](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1.%20Two%20Sum%20(sol4).py)     ||
+| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |🟠|  📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py) ||    
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |🟢|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/1046.%20Last%20Stone%20Weight.py)  || 
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |🟢|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/125.%20Valid%20Palindrome.cpp) ||      
 | [15. 3Sum](https://leetcode.com/problems/3sum/) |🟠|📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/LeetCode/15.%203Sum.py) ||   
