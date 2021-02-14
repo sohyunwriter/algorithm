@@ -4,8 +4,8 @@
 ### Sites    
 - [프로그래머스](https://programmers.co.kr/learn/challenges)
 - [LeetCode](https://leetcode.com/problemset/all/)              
-- 백준    
-- SWEA    
+- [백준](https://www.acmicpc.net/problemset)         
+- [SWEA](https://swexpertacademy.com/main/main.do)          
 - [codility](https://app.codility.com/programmers/lessons)     
 - [해커랭크](https://www.hackerrank.com/dashboard)      
 
