@@ -55,8 +55,7 @@
 - 2018 [비밀지도] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2018%20KAKAO%20BLIND%20RECRUITMENT%5B1%EC%B0%A8%5D/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py)            
 - 2019 [크레인 인형뽑기 게임] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%2)        
 - 2019 [징검다리 건너기] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%2)       
-- 2020 [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)      
-0%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.cpp)         
+- 2020 [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)   📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2020%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.py)    
 - 2021 [순위 검색] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2021%20KAKAO%20BLIND%20RECRUITMENT/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.py)       
 - 2021 [카드 짝 맞추기] 📍[풀이](https://github.com/sohyunwriter/algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2021%20KAKAO%20BLIND%20RECRUITMENT/%EC%B9%B4%EB%93%9C%20%EC%A7%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0.py)      
 
