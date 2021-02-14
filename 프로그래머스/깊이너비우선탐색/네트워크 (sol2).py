@@ -6,8 +6,9 @@ def solution(n, computers):
         stack = [start]
         while stack:
             j = stack.pop()
-            if visited[j] == 0:
-                visited[j] = 1
+            if visited[j]:
+                continue
+            visited[j] = 1
             for i in range(n):
                 if computers[j][i] == 1 and visited[i] == 0:
                     stack.append(i)
