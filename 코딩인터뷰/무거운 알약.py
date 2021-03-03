@@ -17,8 +17,8 @@ def simul(n, data):
     return total
 
 def solve(n, data):
-    print(simul(n, data) - int(n*(n+1)//2))
-    return int((simul(n, data) - int(n*(n+1)//2)) / 0.1)
+    # return int((simul(n, data) - int(n*(n+1)//2)) / 0.1)
+    return int(round(simul(n, data) - int(n*(n+1)//2), 2) * 10)   # 수식: (전체 무게 - 210) / 0.1
 
 if __name__ == "__main__":
     # make data
