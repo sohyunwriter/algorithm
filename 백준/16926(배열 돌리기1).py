@@ -1,4 +1,5 @@
-# pyp3
+# 백준 16926(배열 돌리기 1) : https://www.acmicpc.net/problem/16926
+# pyp3로 실행
 
 import sys
 input = sys.stdin.readline
